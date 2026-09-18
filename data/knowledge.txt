@@ -1,0 +1,31 @@
+Password Reset
+
+Users can reset their password by clicking "Forgot Password" on the login page.
+A password reset link will be sent to their registered email address.
+The reset link expires after 30 minutes.
+
+
+Refund Policy
+
+Customers can request a refund within 14 days of purchase.
+Refund requests should include the order number.
+Approved refunds are normally processed within 5 business days.
+
+
+Shipping
+
+Standard shipping normally takes 3 to 5 business days.
+Express shipping normally takes 1 to 2 business days.
+Customers can track their order using the tracking number.
+
+
+Account
+
+Users can change their email address from Account Settings.
+Users should contact support if they no longer have access to their registered email.
+
+
+Technical Support
+
+If an application is not working correctly, users should first restart the application.
+If the problem continues, they should contact technical support with a description of the issue.
