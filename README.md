@@ -80,6 +80,5 @@ terraform destroy
 ## Author
 
 **Bassam Aljazaeri**
-Data Science & AI Student | AI Engineer
 
 [GitHub](https://github.com/bassam-aljazaeri) · [LinkedIn](https://www.linkedin.com/in/bassam-aljazaeri-ba3284315/)
