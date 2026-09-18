@@ -1,16 +1,16 @@
 # Mini AI Support Assistant
 
-AI-powered customer support application built with **Python, FastAPI, Scikit-learn, PyTorch, RAG, Qdrant, Hugging Face, PostgreSQL, Docker, AWS, and Terraform**.
+AI-powered customer support application built with **Python, FastAPI, Scikit-learn, PyTorch, RAG, Prompt Engineering, Qdrant, Hugging Face, PostgreSQL, Docker, AWS, and Terraform**.
 
 ## How It Works
 
 1. **FastAPI** receives the customer question.
 2. **Scikit-learn + PyTorch** classify the question and detect urgency.
 3. **RAG + Qdrant** retrieve relevant knowledge.
-4. **Hugging Face LLM** generates the response.
-5. **PostgreSQL** stores request data.
-6. **Docker** containerizes the application.
-7. **AWS EC2 + Terraform** provide cloud deployment and infrastructure management.
+4. **Prompt Engineering** builds a context-aware prompt.
+5. **Hugging Face LLM** generates the response.
+6. **PostgreSQL** stores request data.
+7. **Docker + AWS EC2 + Terraform** handle containerization and cloud infrastructure.
 
 ## Architecture
 
